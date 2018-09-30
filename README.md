@@ -33,16 +33,15 @@ Tasks
 The following extension tasks should be done when the corresponding topics are covered in the class.
 
 Extension Task 1:
+
   - Add PropTypes check to all the components created in the previous task
 
 Extension Task 2:
-  - Add unit tests to all the components created in the previous task
-  - Steps:
-    - Install NPM package for `jest-dom` and `react-testing-library`
-    - Create `src/setupTests.js` file as mentioned in `react-testing-library` [documentation](https://github.com/kentcdodds/react-testing-library#global-config)
-    - Write unit tests for each component
+
+  - Add unit tests to all the components created in the previous task using the `react-testing-library`
 
 Extension Task 3:
+`
   - Create a new branch to work on `git checkout -b solution_with_tdd`
   - Redo the lab from scratch, and create each component following Test Driven Development approach
 
