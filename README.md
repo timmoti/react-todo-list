@@ -43,5 +43,6 @@ Extension Task 2:
     - Write unit tests for each component
 
 Extension Task 3:
-  - Redo the lab from scratch, and create each component following Test Driven Development Approach
+  - Create a new branch to work on `git checkout -b solution_with_tdd`
+  - Redo the lab from scratch, and create each component following Test Driven Development approach
 
