@@ -8,7 +8,7 @@
     "react-test-renderer": "^16.5.2"
   },
   "devDependencies": {
-    "jest-dom": "^1.12.1",
+    "jest-dom": "^3.4.0",
     "react-scripts": "^1.1.5",
     "react-testing-library": "^5.1.0"
   },
